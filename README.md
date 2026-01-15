@@ -1,1 +1,22 @@
-# TaskManager
+# Task Manager – Full Stack App
+
+## Tech Stack
+- React + TypeScript
+- React Query
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- JWT Authentication
+
+## Features
+- User authentication (JWT)
+- Protected routes
+- Task CRUD
+- Auto logout on token expiry
+
+## Running Locally
+1. Start backend:
+   dotnet run
+
+2. Start frontend:
+   npm run dev
